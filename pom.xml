@@ -5,7 +5,7 @@
 
 	<groupId>br.com.whs</groupId>
 	<artifactId>spring-rest-data-h2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>spring-rest-data-h2</name>
